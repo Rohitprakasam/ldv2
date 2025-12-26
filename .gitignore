@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+.next/
+out/
+build/
+
+# Project Specific
+static/uploads/
+static/reports/
+.gemini/
+.idea/
+.vscode/
